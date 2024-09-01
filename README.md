@@ -1,2 +1,2 @@
-Simple wWorking Weather app for 
+Simple Working Weather app for 
 PMAccelerator
